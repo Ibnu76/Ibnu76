@@ -56,18 +56,6 @@ open_to:   collaborations & interesting problems
 
 <br/>
 
-## 🌐 Reach me
-
-<div align="center">
-
-  <a href="https://t.me/Ibnu76"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" /></a>
-  <a href="https://x.com/Ibnu76"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-
-</div>
-
-<br/>
-
 <div align="center">
   <sub>⭐ From concept to production — one commit at a time.</sub>
 </div>
