@@ -11,16 +11,13 @@
 
 <br/>
 
-## ⚡ whoami
+## whoami
 
-```yaml
-name:      "Ibnu76"          # ganti
-role:      Software Engineer & Automation Builder
-focus:     [ backend, tooling, web3, bots ]
-learning:  [ rust, distributed-systems ]
-motto:     "Make it work, make it right, make it fast."
-open_to:   collaborations & interesting problems
-```
+I build backend services, automation, and the occasional bot. Most of my time
+goes to making things run reliably and fixing them when they don't. Lately I've
+been picking up Rust and reading about how distributed systems break.
+
+If something here is useful to you, take it and run.
 
 <br/>
 
