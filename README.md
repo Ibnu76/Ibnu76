@@ -11,7 +11,7 @@
 
 <br/>
 
-## 🐜 whoami
+## <img src="https://unpkg.com/lucide-static@latest/icons/fingerprint.svg" width="20" height="20" /> whoami
 
 I build backend services, automation, and the occasional bot. Most of my time
 goes to making things run reliably and fixing them when they don't. Lately I've
@@ -21,7 +21,7 @@ If something here is useful to you, take it and run.
 
 <br/>
 
-## 🧪 stack
+## <img src="https://unpkg.com/lucide-static@latest/icons/layers.svg" width="20" height="20" /> stack
 
 <div align="center">
 
@@ -38,7 +38,7 @@ If something here is useful to you, take it and run.
 
 <br/>
 
-## 📊 Stats
+## <img src="https://unpkg.com/lucide-static@latest/icons/activity.svg" width="20" height="20" /> Stats
 
 <div align="center">
 
