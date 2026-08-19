@@ -11,7 +11,7 @@
 
 <br/>
 
-## whoami
+## 🐜 whoami
 
 I build backend services, automation, and the occasional bot. Most of my time
 goes to making things run reliably and fixing them when they don't. Lately I've
@@ -21,7 +21,7 @@ If something here is useful to you, take it and run.
 
 <br/>
 
-## 🧰 Stack
+## 🧪 stack
 
 <div align="center">
 
