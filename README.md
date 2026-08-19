@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=00E0FF&center=true&vCenter=true&width=520&lines=Ship+fast.+Break+nothing.;Backend+%7C+Automation+%7C+Web3;Turning+caffeine+into+clean+code;Always+building%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=00E0FF&center=true&vCenter=true&width=520&lines=Ship+fast.+Break+nothing.;ML+Infra+%7C+GPU+Systems+%7C+Web3;Building+tools+that+scale;Always+shipping%2C+always+learning" alt="Typing SVG" />
 
   <br/><br/>
 
@@ -13,11 +13,12 @@
 
 ## <img src="https://unpkg.com/lucide-static@latest/icons/fingerprint.svg" width="20" height="20" /> whoami
 
-I build backend services, automation, and the occasional bot. Most of my time
-goes to making things run reliably and fixing them when they don't. Lately I've
-been picking up Rust and reading about how distributed systems break.
+I build GPU infrastructure tooling and ML pipelines — benchmarking AMD MI300X
+accelerators, optimizing LLM inference throughput, and shipping fine-tuning
+workflows on ROCm. On the side, I write security tools and hack on Web3
+protocols.
 
-If something here is useful to you, take it and run.
+Current focus: making AMD GPUs a first-class citizen for LLM workloads.
 
 <br/>
 
@@ -27,12 +28,12 @@ If something here is useful to you, take it and run.
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![ROCm](https://img.shields.io/badge/ROCm-0d1117?style=for-the-badge&logo=amd&logoColor=ED1C24)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
 
 </div>
 
@@ -54,5 +55,5 @@ If something here is useful to you, take it and run.
 <br/>
 
 <div align="center">
-  <sub>⭐ From concept to production — one commit at a time.</sub>
+  <sub>From benchmarks to production — one commit at a time.</sub>
 </div>
